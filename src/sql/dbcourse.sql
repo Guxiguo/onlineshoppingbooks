@@ -15,6 +15,7 @@ Date: 2019-02-17 14:13:43
 
 SET FOREIGN_KEY_CHECKS=0;
 
+
 -- ----------------------------
 -- Table structure for dtproperties
 -- ----------------------------
